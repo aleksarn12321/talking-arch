@@ -8,8 +8,7 @@ Although it is not an official Arch Linux install image, the aim of the project 
 
 ## Credits
 
-thanks to the past maintainers: Kyle and Kelly Prescott
-Sincere thanks goes out to Chris Brannon, the creator of TalkingArch, and to the following people for submitting valuable feedback regarding the project:
+thanks to the past maintainers: Kyle and Kelly Prescott. Also, sincere thanks goes out to Chris Brannon, the creator of TalkingArch, and to the following people for submitting valuable feedback regarding the project:
 
 * Chuck Hallenbeck
 * Julien Claassen
@@ -18,4 +17,6 @@ Sincere thanks goes out to Chris Brannon, the creator of TalkingArch, and to the
 * Keith Hinton
 * Tyler Littlefield
 
-and too many others to name here; you know who you are. Also, heartfelt gratitude goes to the [Archiso](https://git.archlinux.org/archiso.git/) developers, who maintain the official Arch Linux iso build system. We can't thank you enough for all the great work you do.
+and too many others to name here; you know who you are.
+Also, heartfelt gratitude goes to the [Archiso](https://git.archlinux.org/archiso.git/) developers, who maintain the official Arch Linux iso build system.
+I can't thank you enough for all the great work you do.
