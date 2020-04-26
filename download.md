@@ -7,13 +7,13 @@ Please note that TalkingArch, like the official Arch Linux iso, is compatible wi
 
 ## Release info
 
-* Current release: 2020.03.27
-* Download size: 665 MB
-* Linux kernel version: 5.5.13.arch1-1
+* Current release: 2020.04.26
+* Download size: 668 MB
+* Linux kernel version: 5.6.7.arch1-1
 
-**[Download TalkingArch](https://github.com/alex19EP/talking-arch/releases/download/v5.1/TalkingArch-2020.03.27-x86_64.iso)**
+**[Download TalkingArch](https://github.com/alex19EP/talking-arch/releases/download/v6.0/TalkingArch-2020.04.26-x86_64.iso)**
 
-**[download Detached signature](https://github.com/alex19EP/talking-arch/releases/download/v5.1/TalkingArch-2020.03.27-x86_64.iso.sig)**
+**[download Detached signature](https://github.com/alex19EP/talking-arch/releases/download/v6.0/TalkingArch-2020.04.26-x86_64.iso.sig)**
 
 ## File Integrity Verification
 
