@@ -7,13 +7,13 @@ Please note that TalkingArch, like the official Arch Linux iso, is compatible wi
 
 ## Release info
 
-* Current release: 2020.04.27
-* Download size: 668 MB
-* Linux kernel version: 5.6.7.arch1-1
+* Current release: 2020.09.09
+* Download size: 705 MB
+* Linux kernel version: 5.8.7.arch1-1
 
-**[Download TalkingArch](https://github.com/alex19EP/talking-arch/releases/download/v6.1/TalkingArch-2020.04.27-x86_64.iso)**
+**[Download TalkingArch](https://github.com/alex19EP/talking-arch/releases/download/v7.0/TalkingArch-2020.09.09-x86_64.iso)**
 
-**[download Detached signature](https://github.com/alex19EP/talking-arch/releases/download/v6.1/TalkingArch-2020.04.27-x86_64.iso.sig)**
+**[download Detached signature](https://github.com/alex19EP/talking-arch/releases/download/v7.0/TalkingArch-2020.09.09-x86_64.iso.sig)**
 
 ## File Integrity Verification
 
@@ -22,7 +22,7 @@ Before attempting to use this iso, especially if burning to optical media such a
 ### using gpg
 
 1. download Detached signature.
-2. import my publick pgp key: `gpg --keyserver hkps://keys.openpgp.org --recv-keys 6C7F7F22E0152A6FD5728592DAD6F3056C897266`
+2. import my public pgp key: `gpg --keyserver hkps://keys.openpgp.org --recv-keys 6C7F7F22E0152A6FD5728592DAD6F3056C897266`
 3. verify .iso file: `gpg --verify TalkingArch-*.iso.sig  TalkingArch-*.iso`
 
 ## Build Your Own TalkingArch Iso
