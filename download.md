@@ -15,9 +15,16 @@ Please note that TalkingArch, like the official Arch Linux iso, is compatible wi
 
 **[download Detached signature](https://github.com/alex19EP/talking-arch/releases/download/v7.0/TalkingArch-2020.09.09-x86_64.iso.sig)**
 
+**[download Digests file](https://github.com/alex19EP/talking-arch/releases/download/v7.0/Digests.txt)**
+
 ## File Integrity Verification
 
 Before attempting to use this iso, especially if burning to optical media such as a DVD, it is a good idea to verify the integrity of the downloaded file. This will ensure that you have a complete copy that is not tampered with or corrupt in any way.
+
+### using Digests file
+
+a Digests file with md5 and sha512 sum can be downloaded from this page.
+use it for iso verification.
 
 ### using gpg
 
